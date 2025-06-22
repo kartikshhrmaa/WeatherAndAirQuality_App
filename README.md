@@ -2,9 +2,6 @@
 
 A full-stack Spring Boot application that provides **real-time weather data**, **air quality index (AQI)**, and personalized **health advice** by integrating OpenWeatherMap and IQAir APIs. Built using modular design and best practices to demonstrate professional-level backend development.
 
-- 🌐 [OpenWeatherMap API](https://openweathermap.org/)
-- 🏞️ [IQAir AirVisual API](https://www.iqair.com/world-air-quality)
-
 ## 🚀 Features
 - 🌡️ **Live Weather Info** – Temperature, humidity, "feels like", and conditions by city.
 - 🏭 **Air Quality Insights** – Real-time AQI with health-based recommendations.
