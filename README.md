@@ -35,8 +35,12 @@ src/
 
 🌐 API Endpoints
 Method	Endpoint	Description
-GET	/api/weather/current?city={city}	Fetch current weather and AQI
-GET	/api/weather/forecast?city={city}	Fetch 5-day forecast
+GET	localhost:8080/api/weather >> Fetch current weather and AQI 
+{
+ "city":"Delhi"
+}
+
+GET	localhost:8080/api/weather/forecast >> Fetch 5-day forecast
 
 📸 Sample API Output
 json
